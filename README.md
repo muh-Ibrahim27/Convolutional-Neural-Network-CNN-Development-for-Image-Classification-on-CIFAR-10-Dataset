@@ -1,0 +1,2 @@
+# Convolutional-Neural-Network-CNN-Development-for-Image-Classification-on-CIFAR-10-Dataset
+To design, train, and evaluate a Convolutional Neural Network (CNN) for multi-class image classification using the CIFAR-10 dataset. This project will emphasize the implementation of data augmentation techniques to enhance model performance and include a critical step of visualizing feature maps to understand CNN's internal learning process.
